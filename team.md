@@ -5,12 +5,12 @@ permalink: /team/
 ---
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://github.com/ko-laboratory/site/blob/main/photos/test.jpg?raw=true" alt="Albert Ko" style="width: 150px; height: auto; margin-right: 20px; margin-top: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/ko-albert.jpg?raw=true" alt="Albert Ko" style="width: 150px; height: auto; margin-right: 20px; margin-top: 100px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Albert Ko</p>
     <p style="font-size: 18px; margin: 0;">Principal investigator</p>
     <p style="font-size: 14px; margin-top: 5px;">
-    Bio here
+    Dr. Albert Icksang Ko is the Raj and Indra Nooyi Professor of Public Health at the Yale School of Public Health and a Collaborating Researcher at the Oswaldo Cruz Foundation, Brazilian Ministry of Health. His research centers on the health problems that have emerged as a consequence of rapid urbanization and social inequity. Dr. Ko coordinates a research program in Brazil, which focuses on delineating the role of social marginalization, urban ecology and climate in the emergence of infectious disease threats in slum communities and informal settlements. He and his team have mobilized research capacity to develop and implement community-based interventions to epidemics of meningitis, leptospirosis, dengue, Zika virus infection and associated birth defects, and the current COVID-19 pandemic. Dr. Ko is also Program Director of the Fogarty/NIH Global Health Equity Scholars Program which provides research training opportunities for US and LMIC post and pre-doctoral fellows at collaborating international sites. He is a member of the WHO R&D Taskforce for Zika Virus and R&D Blueprint Working Group. During the pandemic, he served with Indra Nooyi as co-chair of Governor Lamont’s Reopen Connecticut Advisory Group. Dr. Ko continues to advise the Governor and the State on its pandemic prevention and control plan, in addition to supporting the Oswaldo Cruz Foundation in its COVID-19 response in Brazil.
     </p>
   </div>
 </div>
