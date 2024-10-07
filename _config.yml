@@ -3,8 +3,8 @@ description:
   Laboratory of Epidemiology and Public Health
   Yale School of Public Health
   New Haven, CT, USA
-baseurl: "/test" # the subpath of your site, e.g. /blog
-url: "https://pcarc1.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/site" # the subpath of your site, e.g. /blog
+url: "https://ko-laboratory.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
