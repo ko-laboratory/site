@@ -5,7 +5,7 @@ permalink: /team/
 ---
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://github.com/ko-laboratory/site/blob/main/photos/ko-albert.jpg?raw=true" alt="Albert Ko" style="width: 150px; height: auto; margin-right: 20px; margin-top: 100px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/ko-albert.jpg?raw=true" alt="Albert Ko" style="width: 150px; height: auto; margin-right: 20px; margin-top: 50px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Albert Ko</p>
     <p style="font-size: 18px; margin: 0;">Principal investigator</p>
@@ -16,7 +16,7 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://github.com/ko-laboratory/site/blob/main/photos/muenker-catherine.jpeg?raw=true" alt="Catherine Muenker" style="width: 150px; height: auto; margin-right: 20px; margin-top: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/muenker-catherine.jpeg?raw=true" alt="Catherine Muenker" style="width: 150px; height: auto; margin-right: 50px; margin-top: 20px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Catherine Muenker</p>
     <p style="font-size: 18px; margin: 0;">Lab manager</p>
@@ -27,7 +27,7 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://github.com/ko-laboratory/site/blob/main/photos/cavalcante-monique.jpeg?raw=true" alt="Monique Cavalcante" style="width: 150px; height: auto; margin-right: 20px; margin-top: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/cavalcante-monique.jpeg?raw=true" alt="Monique Cavalcante" style="width: 150px; height: auto; margin-right: 50px; margin-top: 20px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Monique Cavalcante</p>
     <p style="font-size: 18px; margin: 0;">Project administrator (Fiocruz)</p>
@@ -38,7 +38,7 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://github.com/ko-laboratory/site/blob/main/photos/nyathi-sindiso.jpg?raw=true" alt="Sindiso Nyathi" style="width: 150px; height: auto; margin-right: 20px; margin-top: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/nyathi-sindiso.jpg?raw=true" alt="Sindiso Nyathi" style="width: 150px; height: auto; margin-right: 50px; margin-top: 20px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Sindiso Nyathi</p>
     <p style="font-size: 18px; margin: 0;">Post-doctoral research associate</p>
@@ -49,7 +49,7 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://github.com/ko-laboratory/site/blob/main/photos/aguilar-pablo.jpg?raw=true" alt="Juan Pablo Aguilar" style="width: 150px; height: auto; margin-right: 20px; margin-top: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/aguilar-pablo.jpg?raw=true" alt="Juan Pablo Aguilar" style="width: 150px; height: auto; margin-right: 50px; margin-top: 20px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Juan Pablo Aguilar Ticona</p>
     <p style="font-size: 18px; margin: 0;">Post-doctoral research associate</p>
@@ -60,7 +60,7 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://github.com/ko-laboratory/site/blob/main/photos/nery-nivison.png?raw=true" alt="Nivison Nery" style="width: 150px; height: auto; margin-right: 20px; margin-top: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/nery-nivison.png?raw=true" alt="Nivison Nery" style="width: 150px; height: auto; margin-right: 20px; margin-top: 50px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Nivison Nery Junior</p>
     <p style="font-size: 18px; margin: 0;">Post-doctoral research associate</p>
@@ -71,7 +71,7 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://github.com/ko-laboratory/site/blob/main/photos/ribeiro-gabriel.jpg?raw=true" alt="Gabriel Ribeiro dos Santos" style="width: 150px; height: auto; margin-right: 20px; margin-top: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/ribeiro-gabriel.jpg?raw=true" alt="Gabriel Ribeiro dos Santos" style="width: 150px; height: auto; margin-right: 20px; margin-top: 50px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Gabriel Ribeiro dos Santos</p>
     <p style="font-size: 18px; margin: 0;">Post-doctoral research associate</p>
@@ -82,7 +82,7 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://github.com/ko-laboratory/site/blob/main/photos/cruz-jaqueline.jpg?raw=true" alt="Jaqueline Cruz" style="width: 150px; height: auto; margin-right: 20px; margin-top: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/cruz-jaqueline.jpg?raw=true" alt="Jaqueline Cruz" style="width: 150px; height: auto; margin-right: 50px; margin-top: 20px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Jaqueline Cruz</p>
     <p style="font-size: 18px; margin: 0;">Post-doctoral research associate</p>
@@ -93,7 +93,7 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://github.com/ko-laboratory/site/blob/main/photos/khosavanna-ruchira.jpeg?raw=true" alt="Ruchira (Ruth) Khosavanna" style="width: 150px; height: auto; margin-right: 20px; margin-top: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/khosavanna-ruchira.jpeg?raw=true" alt="Ruchira (Ruth) Khosavanna" style="width: 150px; height: auto; margin-right: 20px; margin-top: 50px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Ruchira (Ruth) Khosavanna</p>
     <p style="font-size: 18px; margin: 0;">Fellow</p>
@@ -104,7 +104,7 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://github.com/ko-laboratory/site/blob/main/photos/bi-sheng.png?raw=true" alt="Sheng Bi" style="width: 150px; height: auto; margin-right: 20px; margin-top: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/bi-sheng.png?raw=true" alt="Sheng Bi" style="width: 150px; height: auto; margin-right: 20px; margin-top: 50px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Sheng Bi</p>
     <p style="font-size: 18px; margin: 0;">Fellow</p>
@@ -115,7 +115,7 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://github.com/ko-laboratory/site/blob/main/photos/nelson-elisabeth.jpg?raw=true" alt="Elisabeth Zoe Nelson" style="width: 150px; height: auto; margin-right: 20px; margin-top: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/nelson-elisabeth.jpg?raw=true" alt="Elisabeth Zoe Nelson" style="width: 150px; height: auto; margin-right: 20px; margin-top: 50px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Elisabeth (Zoë) Nelson</p>
     <p style="font-size: 18px; margin: 0;">PhD student</p>
@@ -126,7 +126,7 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://github.com/ko-laboratory/site/blob/main/photos/shang-lianhan.png?raw=true" alt="Lianhan Shang" style="width: 150px; height: auto; margin-right: 20px; margin-top: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/shang-lianhan.png?raw=true" alt="Lianhan Shang" style="width: 150px; height: auto; margin-right: 20px; margin-top: 50px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Lianhan Shang</p>
     <p style="font-size: 18px; margin: 0;">PhD student</p>
@@ -137,7 +137,7 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://github.com/ko-laboratory/site/blob/main/photos/carcamo-paloma.JPG?raw=true" alt="Paloma Carcamo" style="width: 150px; height: auto; margin-right: 20px; margin-top: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/carcamo-paloma.JPG?raw=true" alt="Paloma Carcamo" style="width: 150px; height: auto; margin-right: 20px; margin-top: 50px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Paloma Cárcamo</p>
     <p style="font-size: 18px; margin: 0;">PhD student</p>
@@ -148,7 +148,7 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://github.com/ko-laboratory/site/blob/main/photos/satyanarayanan-karthika.jpeg?raw=true" alt="Karthika Satyanarayanan" style="width: 150px; height: auto; margin-right: 20px; margin-top: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/satyanarayanan-karthika.jpeg?raw=true" alt="Karthika Satyanarayanan" style="width: 150px; height: auto; margin-right: 20px; margin-top: 50px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Karthika Satyanarayanan</p>
     <p style="font-size: 18px; margin: 0;">MPH student</p>
@@ -159,7 +159,7 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://github.com/ko-laboratory/site/blob/main/photos/salazar-sebastian.png?raw=true" alt="Sebastian Salazar" style="width: 150px; height: auto; margin-right: 20px; margin-top: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/salazar-sebastian.png?raw=true" alt="Sebastian Salazar" style="width: 150px; height: auto; margin-right: 20px; margin-top: 50px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Sebastian Salazar</p>
     <p style="font-size: 18px; margin: 0;">MPH student</p>
@@ -170,7 +170,7 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://github.com/ko-laboratory/site/blob/main/photos/borrego-juan.jpeg?raw=true" alt="Juan Borrego" style="width: 150px; height: auto; margin-right: 20px; margin-top: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/borrego-juan.jpeg?raw=true" alt="Juan Borrego" style="width: 150px; height: auto; margin-right: 20px; margin-top: 50px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Juan Borrego</p>
     <p style="font-size: 18px; margin: 0;">Undergraduate student</p>
@@ -181,7 +181,7 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="https://github.com/ko-laboratory/site/blob/main/photos/delima-mark.jpeg?raw=true" alt="Mark DeLima" style="width: 150px; height: auto; margin-right: 20px; margin-top: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/delima-mark.jpeg?raw=true" alt="Mark DeLima" style="width: 150px; height: auto; margin-right: 20px; margin-top: 50px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Mark DeLima</p>
     <p style="font-size: 18px; margin: 0;">Undergraduate student</p>
