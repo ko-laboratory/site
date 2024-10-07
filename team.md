@@ -131,7 +131,7 @@ permalink: /team/
     <p style="font-size: 24px; margin: 0;">Lianhan Shang</p>
     <p style="font-size: 18px; margin: 0;">PhD student</p>
     <p style="font-size: 14px; margin-top: 5px;">
-    Lianhan is a second year PhD student in the Ko lab. He is now studying the protection effects of previous immune responses against COVID-19 infection and hospitalization. Outside of work, he's an enthusiastic badminton player and an aspiring chef. His culinary skills are currently at a solid 1% mastery level, but he's determined to improve - one wok at a time.
+    Lianhan is a second year PhD student in the Ko lab. He is now studying the protection effects of previous immune responses against SARS-CoV-2 infection and hospitalization. Outside of work, he's an enthusiastic badminton player and an aspiring chef. His culinary skills are currently at a solid 1% mastery level, but he's determined to improve - one wok at a time.
     </p>
   </div>
 </div>
