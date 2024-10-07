@@ -5,7 +5,7 @@ permalink: /team/
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://github.com/ko-laboratory/site/blob/main/photos/test.jpg?raw=true" alt="headshot of Albert Ko" style="width: 150px; height: auto; margin-right: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/test.jpg?raw=true" alt="Albert Ko" style="width: 150px; height: auto; margin-right: 20px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Albert Ko</p>
     <p style="font-size: 18px; margin: 0;">Principal investigator</p>
@@ -14,7 +14,7 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://github.com/ko-laboratory/site/blob/main/photos/muenker-catherine.jpg?raw=true" alt="headshot of Ryan Borg" style="width: 150px; height: auto; margin-right: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/muenker-catherine.jpeg?raw=true" alt="Catherine Muenker" style="width: 150px; height: auto; margin-right: 20px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Catherine Muenker</p>
     <p style="font-size: 18px; margin: 0;">Lab manager</p>
@@ -24,7 +24,7 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://github.com/ko-laboratory/site/blob/main/photos/cavalcante-monique.jpg?raw=true" alt="headshot of Monique Cavalcante" style="width: 150px; height: auto; margin-right: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/cavalcante-monique.jpeg?raw=true" alt="Monique Cavalcante" style="width: 150px; height: auto; margin-right: 20px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Monique Cavalcante</p>
     <p style="font-size: 18px; margin: 0;">Project administrator (Fiocruz)</p>
@@ -34,7 +34,7 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://github.com/ko-laboratory/site/blob/main/photos/cavalcante-monique.jpg?raw=true" alt="headshot of Monique Cavalcante" style="width: 150px; height: auto; margin-right: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/nyathi-sindiso.jpg?raw=true" alt="Sindiso Nyathi" style="width: 150px; height: auto; margin-right: 20px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Sindiso Nyathi</p>
     <p style="font-size: 18px; margin: 0;">Post-doctoral research associate</p>
