@@ -71,7 +71,7 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://github.com/ko-laboratory/site/blob/main/photos/ribeiro-gabriel.png?raw=true" alt="Gabriel Ribeiro dos Santos" style="width: 150px; height: auto; margin-right: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/ribeiro-gabriel.jpg?raw=true" alt="Gabriel Ribeiro dos Santos" style="width: 150px; height: auto; margin-right: 20px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Gabriel Ribeiro dos Santos</p>
     <p style="font-size: 18px; margin: 0;">Post-doctoral research associate</p>
