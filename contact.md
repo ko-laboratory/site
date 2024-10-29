@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "Contact"
+title: "Contact us"
 permalink: /contact/
 ---
-
-## Contact us
 
 ### Prof. Albert I. Ko
 
