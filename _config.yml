@@ -2,21 +2,18 @@ title: "Ko Lab"
 description: 
   Yale School of Public Health<br>
   New Haven, CT, USA
-baseurl: "/site"
-url: "https://ko-laboratory.github.io/"
+baseurl: "/site" # the subpath of your site, e.g. /blog
+url: "https://ko-laboratory.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
 
 # Navigation
 header_pages:
-  - research.md
+  - about.md
   - team.md
   - publications.md
-  - contact.md
 
 # Other configurations
 markdown: kramdown
 highlighter: rouge
-sass:
-  style: compressed # or nested, expanded, or compact depending on your preference
