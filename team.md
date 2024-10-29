@@ -195,4 +195,6 @@ permalink: /team/
 
 xxx
 
-## Lab alumniu
+## Lab alumni
+
+xxx

@@ -1,6 +1,6 @@
 ---
 layout: custom_home
-title: "Ko Lab"
+title: "About us"
 ---
 
 !["Ko Lab group photo"](https://github.com/ko-laboratory/site/blob/main/photos/lab1.jpg?raw=true)
