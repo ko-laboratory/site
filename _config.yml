@@ -11,9 +11,11 @@ theme: minima
 
 # Navigation
 header_pages:
-  - about.md
+  - index.md
+  - research.md
   - team.md
   - publications.md
+  - contact.md
 
 # Other configurations
 markdown: kramdown
