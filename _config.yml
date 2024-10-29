@@ -18,3 +18,5 @@ header_pages:
 # Other configurations
 markdown: kramdown
 highlighter: rouge
+sass:
+  style: compressed # or nested, expanded, or compact depending on your preference
