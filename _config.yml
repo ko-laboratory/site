@@ -21,5 +21,3 @@ markdown: kramdown
 highlighter: rouge
 sass:
   style: compressed # or nested, expanded, or compact depending on your preference
-plugins:
-  - jekyll-seo-tag
