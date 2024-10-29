@@ -2,6 +2,24 @@
 layout: default
 ---
 
-<div class="page-content">
-  {{ content }}
-</div>
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  <!-- Include head content (which includes custom-head) -->
+  {% include head.html %}
+
+  <body>
+
+    <!-- Include the site header -->
+    {% include header.html %}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    <!-- Include the footer if needed -->
+    {% include footer.html %}
+
+  </body>
+</html>
