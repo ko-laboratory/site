@@ -17,6 +17,3 @@ header_pages:
 # Other configurations
 markdown: kramdown
 highlighter: rouge
-
-include: 
-  - _includes/custom-head.html
