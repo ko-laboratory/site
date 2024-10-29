@@ -19,4 +19,4 @@ markdown: kramdown
 highlighter: rouge
 
 include: 
-  - _includes/head-custom.html
+  - _includes/custom-head.html
