@@ -3,3 +3,38 @@
 ---
 
 @import "minima";
+
+/* Logo image styling */
+.logo-image {
+    height: 50px;
+    margin-right: 20px; /* Adds space between the logo and the menu */
+}
+
+/* Adjust wrapper to align logo and menu */
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Responsive adjustments for mobile view */
+@media (max-width: 768px) {
+    .wrapper {
+        flex-direction: column;
+    }
+
+    .site-title {
+        margin-bottom: 10px; /* Adds space between logo and menu in mobile */
+    }
+
+    .trigger {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%; /* Ensures the menu fits within screen */
+    }
+
+    .page-link {
+        padding: 10px 0; /* Adds padding to menu items for better touch targets */
+    }
+}
