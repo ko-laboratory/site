@@ -4,3 +4,30 @@
 
 // Import the default Minima theme styles
 @import "minima";
+
+/* Navigation menu styling */
+.site-nav {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .site-nav a {
+    text-decoration: none;
+    color: #00468b;
+    padding: 0.5em 1em;
+    font-weight: bold;
+  }
+  
+  .site-nav a:hover {
+    color: #ff5722; /* Highlight color on hover */
+  }
+  
+  .page-link {
+    display: inline-block;
+    margin: 0 15px;
+    font-size: 1em;
+  }
+  
