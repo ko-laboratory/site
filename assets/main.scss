@@ -4,112 +4,67 @@
 
 @import "minima";
 
-/* Header Background */
-.site-header {
-    background-color: #f0f0f0; /* Light gray background */
-    padding: 20px 0; /* Add padding around header */
-}
-
-/* Center the Title Image */
-.site-title {
-    text-align: center;
-    margin-bottom: 5px; /* Spacing between title and nav */
-}
-
-.logo-image {
-    max-width: 600px; /* Adjust size as needed */
-    height: auto;
-}
-
-/* Center the Navigation Menu */
-.site-nav {
-    display: flex;
-    justify-content: center;
-}
-
-.page-link {
-    margin: 0 10px;
-    text-decoration: none;
-    color: #333; /* Adjust color to preference */
-}
-
-.page-link:hover {
-    text-decoration: underline;
-}
-
-/* Wrapper styling for responsive width */
-.wrapper {
-    max-width: 1200px; /* Maximum width for large screens */
-    margin: 0 auto; /* Center content on large screens */
-    padding: 0 20px; /* Padding for smaller screens */
-    width: 100%; /* Full width on smaller screens */
-  }
-  
-  /* Adjust header and main content spacing */
-  .site-header,
-  .page-content {
-    padding: 10px 0;
-  }
-  
-  /* Ensure footer has similar margin behavior */
-  .site-footer {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-    width: 100%;
-  }
-  
-  /* General Header Styling */
+/* General Header Styling */
 .site-header {
     background-color: #f0f0f0;
     padding: 10px 0;
-    text-align: center;
 }
 
-/* Title Styling */
-.site-title {
-    font-size: 2rem; /* Default size */
-    display: inline-block;
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
     margin: 0 auto;
-    padding: 10px;
+    padding: 0 20px;
+}
+
+/* Title Image Styling */
+.site-title .logo-image {
+    height: 100px; /* Default size */
+    width: auto;
+    max-width: 100%;
 }
 
 /* Menu Styling */
-.site-nav {
+.site-nav .nav-links {
     display: flex;
-    justify-content: center;
     gap: 20px; /* Space between menu items */
-    flex-wrap: wrap;
 }
 
-/* Menu Links */
 .page-link {
     text-decoration: none;
     color: #333;
     font-size: 1rem;
-    padding: 5px 10px;
 }
 
 .page-link:hover {
     text-decoration: underline;
 }
 
-/* Responsive Styling */
+/* Responsive Adjustments */
 @media (max-width: 768px) {
-    .site-title {
-        font-size: 1.5rem; /* Smaller title size on smaller screens */
+    .wrapper {
+        flex-direction: column;
+        align-items: center;
     }
-    .page-link {
-        font-size: 0.9rem; /* Slightly smaller menu font */
-        padding: 5px;
+
+    .site-title .logo-image {
+        height: 50px; /* Slightly smaller title image */
+    }
+
+    .nav-links {
+        flex-wrap: wrap;
+        justify-content: center;
     }
 }
 
 @media (max-width: 480px) {
-    .site-title {
-        font-size: 1.2rem; /* Further reduce title size on very small screens */
+    .site-title .logo-image {
+        height: 40px; /* Further reduce title image on very small screens */
     }
+
     .page-link {
-        font-size: 0.8rem;
+        font-size: 0.9rem;
     }
 }
