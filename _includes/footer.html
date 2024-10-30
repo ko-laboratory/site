@@ -3,7 +3,16 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <!-- Smaller Title Image -->
+    <a class="footer-title" href="{{ "/" | relative_url }}">
+      <img src="{{ "/assets/title.png" | relative_url }}" alt="{{ site.title | escape }}" class="footer-logo">
+    </a>
+
+    <div class="footer-description">
+      <p>Laboratory of Epidemiology and Public Health</p>
+      <p>Yale School of Public Health</p>
+      <p>New Haven, CT, USA</p>
+    </div>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
@@ -11,9 +20,9 @@
           <li class="p-name">
             {{ site.author | escape }}
           </li>          
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+          {%- if site.email -%}
+          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {%- endif -%}
         </ul>
       </div>
 
@@ -27,5 +36,4 @@
     </div>
 
   </div>
-
 </footer>
