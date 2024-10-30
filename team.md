@@ -38,17 +38,6 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="{{ "/assets/nyathi-sindiso.jpg" | relative_url }}" alt="Sindiso Nyathi" style="width: 150px; height: auto; margin-right: 20px; margin-top: 12px;">
-  <div>
-    <p style="font-size: 24px; margin: 0;">Sindiso Nyathi</p>
-    <p style="font-size: 18px; margin: 0;">Post-doctoral research associate</p>
-    <p style="font-size: 14px; margin-top: 5px;">
-    Sindiso is a current Post-doctoral Research Associate with the Ko Lab. His research focuses on the molecular epidemiology and evolution of SARS-CoV-2. His broader research interests include global health, infectious disease modeling, molecular epidemiology and health policy, focused on Low and Middle Income Countries. Sindiso is interested in working to leverage the range of genomic, statistical and computational tools available today to improve public health and combat disease in LMICs. Outside of the lab he enjoys reading fantasy and sci-fi novels, hiking and backpacking, and running and swimming.
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="{{ "/assets/aguilar-pablo.jpg" | relative_url }}" alt="Juan Pablo Aguilar" style="width: 150px; height: auto; margin-right: 20px; margin-top: 12px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Juan Pablo Aguilar Ticona</p>
@@ -77,6 +66,17 @@ permalink: /team/
     <p style="font-size: 18px; margin: 0;">Post-doctoral research associate</p>
     <p style="font-size: 14px; margin-top: 5px;">
     Gabriel Ribeiro dos Santos is a mathematical modeller focusing on arboviral diseases and associated public health interventions. He joined the group in February 2024 as a Postdoctoral Associate and is currently a visiting scientist at the Instituto Gonçalo Moniz (Fiocruz) in Salvador, Brazil. He is developing methods to better capture the spatiotemporal dynamics of chikungunya transmission in order to inform future vaccination campaigns. He does so by applying Bayesian inference frameworks to serological and epidemiological data. He is also interested in investigating the impact novel vector-control technologies such as the release of Wolbachia-infected mosquitoes.
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="{{ "/assets/nyathi-sindiso.jpg" | relative_url }}" alt="Sindiso Nyathi" style="width: 150px; height: auto; margin-right: 20px; margin-top: 12px;">
+  <div>
+    <p style="font-size: 24px; margin: 0;">Sindiso Nyathi</p>
+    <p style="font-size: 18px; margin: 0;">Post-doctoral research associate</p>
+    <p style="font-size: 14px; margin-top: 5px;">
+    Sindiso is a current Post-doctoral Research Associate with the Ko Lab. His research focuses on the molecular epidemiology and evolution of SARS-CoV-2. His broader research interests include global health, infectious disease modeling, molecular epidemiology and health policy, focused on Low and Middle Income Countries. Sindiso is interested in working to leverage the range of genomic, statistical and computational tools available today to improve public health and combat disease in LMICs. Outside of the lab he enjoys reading fantasy and sci-fi novels, hiking and backpacking, and running and swimming.
     </p>
   </div>
 </div>
