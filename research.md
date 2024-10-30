@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Our research"
+title: "Research"
 permalink: /research/
 ---
 

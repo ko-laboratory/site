@@ -82,8 +82,16 @@ h1, h2, h3, h4, h5, h6, p {
     font-family: 'Roboto Flex', sans-serif; /* Ensure headings and paragraphs use the same font */
 }
 
-/* Add this to your style.css */
+/* Style for footer description */
+.footer-description {
+    margin-bottom: 20px; /* Space below the description */
+    font-size: 12px; /* Adjust font size to be smaller */
+    text-align: center; /* Center align the description */
+    color: gray; /* Set text color to gray */
+    line-height: 1.5; /* Adjust line spacing */
+}
 
+/* Other styles if necessary */
 .footer-title {
     display: block; /* Makes the image a block element */
     margin-bottom: 10px; /* Space below the image */
@@ -94,8 +102,6 @@ h1, h2, h3, h4, h5, h6, p {
     height: auto; /* Maintain aspect ratio */
 }
 
-.footer-description {
-    margin-bottom: 20px; /* Space below the description */
-    font-size: 14px; /* Adjust font size if needed */
-    text-align: center; /* Center align the description */
+.footer-col-wrapper {
+    /* Add any additional styles for the column wrapper if needed */
 }
