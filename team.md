@@ -104,6 +104,17 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/ko-youngsuk.jpg?raw=true" alt="Youngsuk Ko" style="width: 150px; height: auto; margin-right: 20px; margin-top: 12px;">
+  <div>
+    <p style="font-size: 24px; margin: 0;">Youngsuk Ko</p>
+    <p style="font-size: 18px; margin: 0;">Post-doctoral research associate</p>
+    <p style="font-size: 14px; margin-top: 5px;">
+    Youngsuk earned his Ph.D. in Mathematics from Konkuk University, Korea, in 2024. His research focuses on mathematical modeling and analyzing the dynamics of infectious diseases that spread through human-to-human transmission, such as COVID-19, Ebola, Mpox, and MERS. He is also deeply interested in modeling the spread of vector-borne diseases like dengue and chikungunya. The goal of his research is to propose realistic intervention policies, both pharmaceutical and non-pharmaceutical, that take public health environment into account. Outside of his research, he’s a cat enthusiast and guitarist in a rock band. Once, he even dreamed of abandoning his Ph.D. to become a rock star like Brian May of Queen—but, thankfully, that dream remained just that.
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="https://github.com/ko-laboratory/site/blob/main/photos/khosavanna-ruchira.jpeg?raw=true" alt="Ruchira (Ruth) Khosavanna" style="width: 150px; height: auto; margin-right: 20px; margin-top: 12px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Ruchira (Ruth) Khosavanna</p>
