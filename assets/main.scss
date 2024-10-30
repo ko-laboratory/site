@@ -98,10 +98,55 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .footer-logo {
-    width: 50px; /* Set width for the smaller logo */
+    width: 75px; /* Set width for the smaller logo */
     height: auto; /* Maintain aspect ratio */
 }
 
 .footer-col-wrapper {
     /* Add any additional styles for the column wrapper if needed */
+}
+
+/* Add this to your style.css */
+
+/* General research section styles */
+.research-section {
+    max-width: 800px; /* Set a maximum width for the research section */
+    margin: 0 auto; /* Center the section on the page */
+}
+
+/* Styles for each research item */
+.research-item {
+    margin-bottom: 30px; /* Space between each research item */
+}
+
+/* Styles for icon and title */
+.icon-title {
+    display: flex; /* Use flexbox for alignment */
+    align-items: center; /* Center items vertically */
+    background-color: yellow; /* Background color for the title */
+    padding: 5px; /* Padding around the title */
+    border-radius: 5px; /* Rounded corners */
+    margin-bottom: 10px; /* Space below the title */
+}
+
+/* Styles for the research icon */
+.research-icon {
+    width: 20px; /* Set width for the icon */
+    height: 20px; /* Set height for the icon */
+    margin-right: 10px; /* Space between icon and title */
+}
+
+/* Styles for the research image */
+.research-image {
+    display: block; /* Make the image a block element */
+    margin: 0 auto; /* Center the image */
+    max-width: 100%; /* Responsive image size */
+    height: auto; /* Maintain aspect ratio */
+}
+
+/* Styles for the legend */
+.legend {
+    text-align: center; /* Center the legend */
+    color: gray; /* Change legend text color */
+    margin-top: 5px; /* Space above the legend */
 }
