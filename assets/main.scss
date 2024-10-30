@@ -4,72 +4,58 @@
 
 @import "minima";
 
-/* Logo image styling */
-.logo-image {
-    height: 50px;
-    margin-right: 20px; /* Adds space between the logo and the menu */
-}
-
-/* Adjust wrapper to align logo and menu */
-.wrapper {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-/* Responsive adjustments for mobile view */
-@media (max-width: 768px) {
-    .wrapper {
-        flex-direction: column;
-    }
-
-    .site-title {
-        margin-bottom: 10px; /* Adds space between logo and menu in mobile */
-    }
-
-    .trigger {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        width: 100%; /* Ensures the menu fits within screen */
-    }
-
-    .page-link {
-        padding: 10px 0; /* Adds padding to menu items for better touch targets */
-    }
-}
-
-/* Header styling */
+/* Header Background */
 .site-header {
     background-color: #f0f0f0; /* Light gray background */
-    padding: 10px 0;
-  }
-  
-  /* Title styling */
-  .header-title {
+    padding: 20px 0; /* Add padding around header */
+}
+
+/* Center the Title Image */
+.site-title {
     text-align: center;
-    font-size: 2em;
-    margin-bottom: 10px;
-  }
-  
-  .site-title {
-    color: #333; /* Dark text color for contrast */
+    margin-bottom: 15px; /* Spacing between title and nav */
+}
+
+.logo-image {
+    max-width: 200px; /* Adjust size as needed */
+    height: auto;
+}
+
+/* Center the Navigation Menu */
+.site-nav {
+    display: flex;
+    justify-content: center;
+}
+
+.page-link {
+    margin: 0 10px;
     text-decoration: none;
-    font-weight: bold;
-  }
-  
-  /* Menu styling */
-  .site-nav {
-    text-align: center;
-  }
-  
-  .site-nav .page-link {
-    margin: 0 15px;
-    color: #333; /* Match text color */
-    text-decoration: none;
-  }
-  
-  .site-nav .page-link:hover {
+    color: #333; /* Adjust color to preference */
+}
+
+.page-link:hover {
     text-decoration: underline;
+}
+
+/* Wrapper styling for responsive width */
+.wrapper {
+    max-width: 1200px; /* Maximum width for large screens */
+    margin: 0 auto; /* Center content on large screens */
+    padding: 0 20px; /* Padding for smaller screens */
+    width: 100%; /* Full width on smaller screens */
+  }
+  
+  /* Adjust header and main content spacing */
+  .site-header,
+  .page-content {
+    padding: 20px 0;
+  }
+  
+  /* Ensure footer has similar margin behavior */
+  .site-footer {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    width: 100%;
   }
   
