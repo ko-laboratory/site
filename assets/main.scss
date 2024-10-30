@@ -131,9 +131,10 @@ h1, h2, h3, h4, h5, h6, p {
 
 /* Styles for the research icon */
 .research-icon {
-    width: 20px; /* Set width for the icon */
-    height: 20px; /* Set height for the icon */
-    margin-right: 10px; /* Space between icon and title */
+    width: 2cm; /* Set width for the icon */
+    height: 2cm; /* Set height for the icon */
+    margin-right: 10px;
+    object-fit: cover; /* Space between icon and title */
 }
 
 /* Styles for the research image */

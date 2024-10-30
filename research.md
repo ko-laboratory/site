@@ -12,7 +12,7 @@ permalink: /research/
       <span class="research-title">COVID-19</span>
     </div>
     <p>xxx</p>
-    <img src="{{ "/assets/placeholder.jpg" | relative_url }}" alt="COVID-19 Image" class="research-image">
+    <img src="{{ "/assets/placeholder.png" | relative_url }}" alt="COVID-19 Image" class="research-image">
     <p class="legend">Legend for COVID-19 image</p>
   </div>
 
@@ -22,7 +22,7 @@ permalink: /research/
       <span class="research-title">Arboviral diseases</span>
     </div>
     <p>xxx</p>
-    <img src="{{ "/assets/placeholder.jpg" | relative_url }}" alt="Arboviral Diseases Image" class="research-image">
+    <img src="{{ "/assets/placeholder.png" | relative_url }}" alt="Arboviral Diseases Image" class="research-image">
     <p class="legend">Legend for Arboviral diseases image</p>
   </div>
 
@@ -32,7 +32,7 @@ permalink: /research/
       <span class="research-title">Leptospirosis</span>
     </div>
     <p>xxx</p>
-    <img src="{{ "/assets/placeholder.jpg" | relative_url }}" alt="Leptospirosis Image" class="research-image">
+    <img src="{{ "/assets/placeholder.png" | relative_url }}" alt="Leptospirosis Image" class="research-image">
     <p class="legend">Legend for Leptospirosis image</p>
   </div>
 
@@ -42,7 +42,7 @@ permalink: /research/
       <span class="research-title">Pau da Lima Cohort</span>
     </div>
     <p>xxx</p>
-    <img src="{{ "/assets/placeholder.jpg" | relative_url }}" alt="Pau da Lima Cohort Image" class="research-image">
+    <img src="{{ "/assets/placeholder.png" | relative_url }}" alt="Pau da Lima Cohort Image" class="research-image">
     <p class="legend">Legend for Pau da Lima Cohort image</p>
   </div>
 
