@@ -85,8 +85,8 @@ h1, h2, h3, h4, h5, h6, p {
 /* Style for footer description */
 .footer-description {
     margin-bottom: 20px; /* Space below the description */
-    font-size: 14px; /* Adjust font size to be smaller */
-    text-align: right; /* Center align the description */
+    font-size: 18px; /* Adjust font size to be smaller */
+    text-align: center; /* Center align the description */
     color: lightgray; /* Set text color to gray */
     line-height: 0; /* Adjust line spacing */
 }
@@ -98,7 +98,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .footer-logo {
-    width: 100px; /* Set width for the smaller logo */
+    width: 5cm; /* Set width for the smaller logo */
     height: auto; /* Maintain aspect ratio */
 }
 
@@ -121,10 +121,12 @@ h1, h2, h3, h4, h5, h6, p {
 .icon-title {
     display: flex; /* Use flexbox for alignment */
     align-items: center; /* Center items vertically */
-    background-color: yellow; /* Background color for the title */
+    background-color: #ffbd59; /* Background color for the title */
     padding: 5px; /* Padding around the title */
     border-radius: 5px; /* Rounded corners */
     margin-bottom: 10px; /* Space below the title */
+    font-size: 25px;
+    font-weight: bold;
 }
 
 /* Styles for the research icon */
