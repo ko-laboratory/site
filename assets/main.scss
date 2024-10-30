@@ -71,3 +71,15 @@
         font-size: 0.9rem;
     }
 }
+
+/* Add this to your style.css */
+
+body {
+    font-family: 'Abyssinica SIL', sans-serif; /* Fallback to sans-serif if font fails to load */
+    /* Add any other styles you want for the body */
+}
+
+/* Optionally, apply it to headings and other elements */
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Abyssinica SIL', sans-serif; /* Ensure headings and paragraphs use the same font */
+}
