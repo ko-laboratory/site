@@ -38,3 +38,38 @@
         padding: 10px 0; /* Adds padding to menu items for better touch targets */
     }
 }
+
+/* Header styling */
+.site-header {
+    background-color: #f0f0f0; /* Light gray background */
+    padding: 10px 0;
+  }
+  
+  /* Title styling */
+  .header-title {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .site-title {
+    color: #333; /* Dark text color for contrast */
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  /* Menu styling */
+  .site-nav {
+    text-align: center;
+  }
+  
+  .site-nav .page-link {
+    margin: 0 15px;
+    color: #333; /* Match text color */
+    text-decoration: none;
+  }
+  
+  .site-nav .page-link:hover {
+    text-decoration: underline;
+  }
+  
