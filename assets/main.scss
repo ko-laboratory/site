@@ -8,40 +8,54 @@
 .site-header {
     background-color: #f0f0f0; /* Light gray background */
     padding: 20px 0; /* Add padding around header */
-    text-align: center; /* Center-align contents */
 }
 
-/* Center and Resize the Title Image Responsively */
-.site-title .logo-image {
-    max-width: 100%; /* Allow image to scale down on small screens */
-    width: 300px; /* Default width */
+/* Center the Title Image */
+.site-title {
+    text-align: center;
+    margin-bottom: 15px; /* Spacing between title and nav */
+}
+
+.logo-image {
+    max-width: 400px; /* Adjust size as needed */
     height: auto;
-    margin-bottom: 20px; /* Space between title and navigation */
 }
 
-/* Center the Navigation Menu Below the Image */
+/* Center the Navigation Menu */
 .site-nav {
     display: flex;
     justify-content: center;
-    gap: 15px; /* Space between menu items */
 }
 
 .page-link {
+    margin: 0 10px;
     text-decoration: none;
     color: #333; /* Adjust color to preference */
-    font-size: 1rem;
 }
 
 .page-link:hover {
     text-decoration: underline;
 }
 
-/* Responsive Adjustments */
-@media (max-width: 768px) {
-    .site-title .logo-image {
-        width: 200px; /* Smaller width on mobile */
-    }
-    .page-link {
-        font-size: 0.9rem;
-    }
-}
+/* Wrapper styling for responsive width */
+.wrapper {
+    max-width: 1200px; /* Maximum width for large screens */
+    margin: 0 auto; /* Center content on large screens */
+    padding: 0 20px; /* Padding for smaller screens */
+    width: 100%; /* Full width on smaller screens */
+  }
+  
+  /* Adjust header and main content spacing */
+  .site-header,
+  .page-content {
+    padding: 20px 0;
+  }
+  
+  /* Ensure footer has similar margin behavior */
+  .site-footer {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    width: 100%;
+  }
+  
