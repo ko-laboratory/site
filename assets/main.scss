@@ -85,10 +85,10 @@ h1, h2, h3, h4, h5, h6, p {
 /* Style for footer description */
 .footer-description {
     margin-bottom: 20px; /* Space below the description */
-    font-size: 12px; /* Adjust font size to be smaller */
-    text-align: center; /* Center align the description */
+    font-size: 14px; /* Adjust font size to be smaller */
+    text-align: right; /* Center align the description */
     color: lightgray; /* Set text color to gray */
-    line-height: 1; /* Adjust line spacing */
+    line-height: 0; /* Adjust line spacing */
 }
 
 /* Other styles if necessary */
@@ -98,15 +98,13 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .footer-logo {
-    width: 75px; /* Set width for the smaller logo */
+    width: 100px; /* Set width for the smaller logo */
     height: auto; /* Maintain aspect ratio */
 }
 
 .footer-col-wrapper {
     /* Add any additional styles for the column wrapper if needed */
 }
-
-/* Add this to your style.css */
 
 /* General research section styles */
 .research-section {
