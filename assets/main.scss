@@ -81,3 +81,21 @@ body {
 h1, h2, h3, h4, h5, h6, p {
     font-family: 'Roboto Flex', sans-serif; /* Ensure headings and paragraphs use the same font */
 }
+
+/* Add this to your style.css */
+
+.footer-title {
+    display: block; /* Makes the image a block element */
+    margin-bottom: 10px; /* Space below the image */
+}
+
+.footer-logo {
+    width: 100px; /* Set width for the smaller logo */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.footer-description {
+    margin-bottom: 20px; /* Space below the description */
+    font-size: 14px; /* Adjust font size if needed */
+    text-align: center; /* Center align the description */
+}
