@@ -112,8 +112,9 @@ h1, h2, h3, h4, h5, h6, p {
 
 /* General research section styles */
 .research-section {
-    max-width: 800px; /* Set a maximum width for the research section */
+    max-width: 1000px; /* Set a maximum width for the research section */
     margin: 0 auto; /* Center the section on the page */
+    padding: 0 20px;
 }
 
 /* Styles for each research item */
@@ -129,14 +130,14 @@ h1, h2, h3, h4, h5, h6, p {
     padding: 5px; /* Padding around the title */
     border-radius: 5px; /* Rounded corners */
     margin-bottom: 10px; /* Space below the title */
-    font-size: 30px;
+    font-size: 27px;
     font-weight: bold;
 }
 
 /* Styles for the research icon */
 .research-icon {
-    width: 2cm; /* Set width for the icon */
-    height: 2cm; /* Set height for the icon */
+    width: 1.5cm; /* Set width for the icon */
+    height: 1.5cm; /* Set height for the icon */
     margin-right: 10px;
     object-fit: cover; /* Space between icon and title */
 }
