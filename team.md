@@ -93,6 +93,17 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="https://github.com/ko-laboratory/site/blob/main/photos/santos-cleber.jpg?raw=true" alt="Cleber Santos" style="width: 150px; height: auto; margin-right: 20px; margin-top: 12px;">
+  <div>
+    <p style="font-size: 24px; margin: 0;">Cleber Santos</p>
+    <p style="font-size: 18px; margin: 0;">Post-doctoral research associate</p>
+    <p style="font-size: 14px; margin-top: 5px;">
+    Cleber is currently a postdoctoral researcher at the Ko Lab. He holds both an MSc and PhD in Public Health from the State University of Rio de Janeiro, Brazil. His research focuses on zoonotic, vector-borne, and airborne diseases, aiming to uncover the factors driving disease emergence and the disproportionate impacts on particular groups. Through his work, Cleber seeks to influence preventive strategies by analysing how particular actions and environmental and behavioural changes affect the spread of diseases. Outside the lab, he enjoys cooking, watching and playing football, and supporting his hometown team, E.C. Bahia.
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="https://github.com/ko-laboratory/site/blob/main/photos/khosavanna-ruchira.jpeg?raw=true" alt="Ruchira (Ruth) Khosavanna" style="width: 150px; height: auto; margin-right: 20px; margin-top: 12px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Ruchira (Ruth) Khosavanna</p>
@@ -190,11 +201,3 @@ permalink: /team/
     </p>
   </div>
 </div>
-
-## Collaborators
-
-xxx
-
-## Lab alumni
-
-xxx
