@@ -88,7 +88,8 @@ h1, h2, h3, h4, h5, h6, p {
     font-size: 18px; /* Adjust font size to be smaller */
     text-align: center; /* Center align the description */
     color: lightgray; /* Set text color to gray */
-    line-height: 0; /* Adjust line spacing */
+    margin-top: 10px;
+    line-height: 1; /* Adjust line spacing */
 }
 
 /* Other styles if necessary */
@@ -125,7 +126,7 @@ h1, h2, h3, h4, h5, h6, p {
     padding: 5px; /* Padding around the title */
     border-radius: 5px; /* Rounded corners */
     margin-bottom: 10px; /* Space below the title */
-    font-size: 25px;
+    font-size: 30px;
     font-weight: bold;
 }
 
