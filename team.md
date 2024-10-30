@@ -137,6 +137,17 @@ permalink: /team/
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="{{ "/assets/lin-tzuyi.jpeg" | relative_url }}" alt="Tzu Yi Li" style="width: 150px; height: auto; margin-right: 20px; margin-top: 12px;">
+  <div>
+    <p style="font-size: 24px; margin: 0;">Tzu-Yi Lin</p>
+    <p style="font-size: 18px; margin: 0;">Research assistant</p>
+    <p style="font-size: 14px; margin-top: 5px;">
+    Tzu-Yi graduated with an MPH degree in Epidemiology of Microbial diseases from Yale. She is interested in microbial pathogenesis and the host-vector interaction of infectious zoonotic pathogens, aiming to develop cost-effective diagnostic tools and prevention strategies for resource-limited regions, particularly LMIC. Her current research focuses on identifying immuno-epidemiological biomarkers of human exposure to evaluate arboviral infection risks. She enjoys both fieldwork and laboratory investigations. Outside the lab, Tzu-Yi likes cooking, hiking, and bouldering.
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="{{ "/assets/nelson-elisabeth.jpg" | relative_url }}" alt="Elisabeth Zoe Nelson" style="width: 150px; height: auto; margin-right: 20px; margin-top: 12px;">
   <div>
     <p style="font-size: 24px; margin: 0;">Elisabeth (Zoë) Nelson</p>
