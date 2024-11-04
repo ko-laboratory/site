@@ -3,41 +3,49 @@ layout: page
 title: "Team"
 permalink: /team/
 ---
+
 <style>
+/* General team section styles */
+.team-section {
+    max-width: 1000px; /* Match research section width */
+    margin: 0 auto; /* Center section on the page */
+    padding: 0 20px; /* Match padding */
+}
+
 /* Desktop layout (default) */
 .team-member {
-  display: flex;
-  align-items: flex-start;
-  margin-bottom: 20px;
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 30px; /* Match spacing with research items */
 }
 
 .team-member img {
-  width: 150px;
-  height: auto;
-  margin-right: 20px;
-  margin-top: 12px;
+    width: 150px;
+    height: auto;
+    margin-right: 20px;
+    margin-top: 12px;
 }
 
 .team-member div {
-  max-width: 900px;
+    max-width: 100%; /* Allow text to fill the container */
 }
 
 /* Mobile layout */
 @media (max-width: 768px) {
-  .team-member {
-    display: block;
-    text-align: center;
-  }
+    .team-member {
+        display: block;
+        text-align: center;
+    }
 
-  .team-member img {
-    display: block;
-    margin: 0 auto 15px auto;
-  }
+    .team-member img {
+        display: block;
+        margin: 0 auto 15px auto;
+    }
 
-  .team-member div {
-    text-align: left;
-    width: 100%;
-  }
+    .team-member div {
+        text-align: left;
+        width: 100%;
+    }
 }
 </style>
 
