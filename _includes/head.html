@@ -12,4 +12,25 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: site.title }}</title>
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="The Ko Laboratory at Yale School of Public Health conducts research on infectious diseases and public health interventions in Brazil and beyond.">
+    <meta name="keywords" content="Ko Laboratory, Yale School of Public Health, Yale University, Laboratory of Epidemiology and Public Health, Albert Ko, infectious diseases, dengue, Zika, chikungunya, Wolbachia, wMel, leptospirosis, COVID-19, SARS-CoV-2, urban ecology, public health research, Salvador de Bahia, Bahia, Pau da Lima, Rio de Janeiro, Connecticut, United States, global health, public health">
+    <meta name="author" content="Ko Laboratory">
+
+    <!-- Open Graph Tags for Social Sharing -->
+    <meta property="og:title" content="Ko Laboratory | Infectious Disease Research">
+    <meta property="og:description" content="Research on infectious diseases and public health led by Dr. Albert Ko, focusing on urban settings and disease intervention.">
+    <meta property="og:image" content="URL_TO_IMAGE">
+    <meta property="og:url" content="https://ko-laboratory.github.io/site/">
+    <meta property="og:type" content="website">
+    
+    <!-- Fallback Title if not defined on the page -->
+    <title>{{ page.title | default: "Ko Laboratory" }}</title>
+    
+    <!-- Stylesheets and any other necessary scripts -->
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+    <!-- Add other <link> or <script> tags as needed -->
 </head>
