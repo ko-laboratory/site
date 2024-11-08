@@ -30,8 +30,7 @@ permalink: /research/
       <li>Identifying vaccine roll-out strategies for novel chikungunya and dengue vaccines.</li>
       <li>Evaluating the effectiveness of <i>w</i>Mel <i>Wolbachia</i>-based vector control interventions in preventing arboviral incidence through the EVITA Dengue cluster-randomized control trial.</li>
       <li>Optimizing the release and monitoring of <i>w</i>Mel <i>Wolbachia</i>-based interventions to ensure effective, equitable scale-up across Brazil, in collaboration with the World Mosquito Program.</li>
-
-</p>
+    </ul>
     <img src="{{ "/assets/placeholder2.jpg" | relative_url }}" alt="Arboviral Diseases Image" class="research-image">
     <p class="legend">Legend for Arboviral diseases image</p>
   </div>
