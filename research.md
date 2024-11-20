@@ -33,7 +33,6 @@ permalink: /research/
     </ul>
     <img src="{{ "/assets/placeholder2.jpg" | relative_url }}" alt="Arboviral Diseases Image" class="research-image">
     <p class="legend">Legend for Arboviral diseases image</p>
-  </div>
 
   <div class="research-item">
     <div class="icon-title">
@@ -56,5 +55,3 @@ permalink: /research/
     <img src="{{ "/assets/placeholder4.jpg" | relative_url }}" alt="Pau da Lima Cohort Image" class="research-image">
     <p class="legend">Legend for Pau da Lima Cohort image</p>
   </div>
-
-</div>
