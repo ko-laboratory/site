@@ -3,9 +3,11 @@ layout: custom_home
 title: "Home"
 ---
 
-<div style="font-size: 1.5rem; font-weight: bold; margin-bottom: 20px;">
-Our laboratory focuses on studying the intersection between urbanization, socioeconomic inequities and infectious diseases.
+<div style="font-size: 1.5rem; margin-bottom: 20px;">
+The Ko Laboratory works at the intersection of urbanization, socioeconomic inequities and infectious diseases.
 </div>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer elementum ornare lectus, in dapibus sapien dignissim ut. Vivamus cursus ornare mi, at tincidunt nunc laoreet sed. Ut ullamcorper feugiat convallis. Ut pharetra est eu mauris facilisis, nec posuere metus mollis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin ligula erat, ultricies vitae lacus sit amet, commodo ornare orci. Quisque eu est in metus iaculis rutrum a a dolor. Nulla nec velit ac ligula volutpat mollis.
 
 <div class="photo-grid">
     <div class="photo-cell">
