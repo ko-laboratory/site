@@ -3,7 +3,9 @@ layout: custom_home
 title: "Home"
 ---
 
+<div style="font-size: 1.5rem; font-weight: bold; margin-bottom: 20px;">
 Our laboratory focuses on studying the intersection between urbanization, socioeconomic inequities and infectious diseases.
+</div>
 
 <div class="photo-grid">
     <div class="photo-cell">
