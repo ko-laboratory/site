@@ -72,6 +72,23 @@ permalink: /team/
 </div>
 
 <div class="team-member">
+  <img src="{{ "/assets/evankow-chelsea.jpg" | relative_url }}" alt="Chelsea Evankow">
+  <div>
+    <p style="font-size: 24px; margin: 0;"><strong>Chelsea Evankow</strong></p>
+    <p style="font-size: 18px; margin: 0;">Project administrator (Yale)</p>
+    <p style="font-size: 14px; margin-top: 5px;">
+      Chelsea is a global health professional and Returned Peace Corps Volunteer with over eight years of experience in global health and program management. She holds a Master of Public Health degree from Tulane University, where she focused on addressing health challenges through a lens of equity and inclusion.
+    </p>
+    <p style="font-size: 14px; margin-top: 5px;">
+      Before joining Yale, Chelsea worked at Planned Parenthood in Louisiana, where she led efforts to streamline operations, foster strategic partnerships, and advance advocacy initiatives in a complex policy environment. Her work has centered on sexual and reproductive health, HIV, malaria, and maternal, infant, and child health, with a commitment to gender equality and racial equity.
+    </p>
+    <p style="font-size: 14px; margin-top: 5px;">
+      A skilled leader and collaborator, Chelsea thrives in dynamic environments, bringing expertise in program design, capacity building, stakeholder engagement, and cross-cultural collaboration. At Yale, she serves as the Program Manager, supporting groundbreaking research and initiatives under the leadership of Dr. Ko.
+    </p>
+  </div>
+</div>
+
+<div class="team-member">
   <img src="{{ "/assets/cavalcante-monique.jpeg" | relative_url }}" alt="Monique Cavalcante">
   <div>
     <p style="font-size: 24px; margin: 0;"><strong>Monique Cavalcante</strong></p>
@@ -248,12 +265,34 @@ permalink: /team/
 </div>
 
 <div class="team-member">
+  <img src="{{ "/assets/elhardt-michael.jpg" | relative_url }}" alt="Michael Elhardt">
+  <div>
+    <p style="font-size: 24px; margin: 0;"><strong>Michael Elhardt</strong></p>
+    <p style="font-size: 18px; margin: 0;">MPH student</p>
+    <p style="font-size: 14px; margin-top: 5px;">
+      Michael Elhardt is an MPH student at the Ko Lab.
+    </p>
+  </div>
+</div>
+
+<div class="team-member">
   <img src="{{ "/assets/borrego-juan.jpeg" | relative_url }}" alt="Juan Borrego">
   <div>
     <p style="font-size: 24px; margin: 0;"><strong>Juan Borrego</strong></p>
     <p style="font-size: 18px; margin: 0;">Undergraduate student</p>
     <p style="font-size: 14px; margin-top: 5px;">
       Juan Borrego is an undergraduate student at Yale University and is currently researching how infrastructural factors are associated with dengue fever incidence in Rio de Janeiro, Brazil. As an aspiring physician and a passionate advocate for public health, he is deeply committed to bridging the gap between epidemiology and medicine to address health inequities and enhance community welfare. Outside of class, he serves as an EMT for Yale EMS and a Patient Navigator at the HAVEN Free Clinic. Dedicated to civic engagement, he also engages with New Haven public schools as a Community Health Educator.
+    </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="{{ "/assets/wang-qinyi.jpg" | relative_url }}" alt="Qinyi Wang">
+  <div>
+    <p style="font-size: 24px; margin: 0;"><strong>Qinyi Wang</strong></p>
+    <p style="font-size: 18px; margin: 0;">Undergraduate student</p>
+    <p style="font-size: 14px; margin-top: 5px;">
+      Qinyi Wang is an undergraduate student at Yale University studying biology and global health. She is passionate about the intersection of global health and human rights, particularly health interventions in complex emergencies and pandemic preparedness in resource-constrained settings. She leads the Universities Allied for Essential Medicines and Friends of MSF chapters at Yale, and works as a part-time photographer for her residential college, Trumbull. Outside of school, Qinyi is enthusiastic about rock music, traveling, and the football club Arsenal. 
     </p>
   </div>
 </div>
