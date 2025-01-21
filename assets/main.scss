@@ -156,3 +156,20 @@ h1, h2, h3, h4, h5, h6, p {
     color: gray; /* Change legend text color */
     margin-top: 5px; /* Space above the legend */
 }
+
+/* Media query for extra small screens */
+@media (max-width: 600px) {
+    .icon-title {
+        font-size: 18px; /* Further adjust font size for very small screens */
+        padding: 6px; /* Reduce padding */
+    }
+
+    .research-icon {
+        width: 35px; /* Smaller icon size for compact view */
+        height: 35px;
+    }
+
+    .legend {
+        font-size: 12px; /* Smaller font size for better fit */
+    }
+}
