@@ -129,7 +129,7 @@ h1, h2, h3, h4, h5, h6, p {
     display: flex; /* Use flexbox for alignment */
     align-items: center; /* Center items vertically */
     background-color: #ffbd59; /* Background color for the title */
-    padding: 5px; /* Padding around the title */
+    padding: 3px; /* Padding around the title */
     border-radius: 5px; /* Rounded corners */
     margin-bottom: 10px; /* Space below the title */
     font-size: 27px;
@@ -157,21 +157,4 @@ h1, h2, h3, h4, h5, h6, p {
     text-align: center; /* Center the legend */
     color: gray; /* Change legend text color */
     margin-top: 5px; /* Space above the legend */
-}
-
-/* Media query for extra small screens */
-@media (max-width: 600px) {
-    .icon-title {
-        font-size: 18px; /* Further adjust font size for very small screens */
-        padding: 6px; /* Reduce padding */
-    }
-
-    .research-icon {
-        width: 35px; /* Smaller icon size for compact view */
-        height: 35px;
-    }
-
-    .legend {
-        font-size: 12px; /* Smaller font size for better fit */
-    }
 }
