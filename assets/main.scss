@@ -148,6 +148,7 @@ h1, h2, h3, h4, h5, h6, p {
     display: block; /* Make the image a block element */
     margin: 0 auto; /* Center the image */
     max-width: 400px; /* Responsive image size */
+    width: 100%;
     height: auto; /* Maintain aspect ratio */
 }
 
