@@ -270,7 +270,7 @@ permalink: /team/
     <p style="font-size: 24px; margin: 0;"><strong>Michael Elhardt</strong></p>
     <p style="font-size: 18px; margin: 0;">MPH student</p>
     <p style="font-size: 14px; margin-top: 5px;">
-      Michael Elhardt is an MPH student at the Ko Lab.
+      Michael Elhardt is a second-year Master of Public Health candidate at the Yale School of Public Health, specializing in infectious disease epidemiology. His research in the Ko lab focuses on COVID-19 vaccine uptake in vulnerable populations. His broader research interests include infectious disease modeling, causal inference methods, and environmental epidemiology. Prior to his work at Yale, Michael held program management positions at Population Services International, the Stanford University School of Medicine, and the U.S. Agency for International Development. He received a bachelor's degree in Science and Management from Claremont McKenna College. Outside of work, Michael enjoys reading novels, playing board games, and going wilderness backpacking. 
     </p>
   </div>
 </div>
