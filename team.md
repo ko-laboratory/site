@@ -199,6 +199,17 @@ permalink: /team/
 </div>
 
 <div class="team-member">
+  <img src="{{ "/assets/yang-xiaoting.jpg" | relative_url }}" alt="Xiaoting Yang">
+  <div>
+    <p style="font-size: 24px; margin: 0;"><strong>Xiaoting Yang</strong></p>
+    <p style="font-size: 18px; margin: 0;">Fellow</p>
+    <p style="font-size: 14px; margin-top: 5px;">
+      Xiaoting Yang is a postgraduate fellow in the Yale-China Medical Board Global Health Leadership Development Program. She is an Investment Manager at Haier Biomedical, a leading service provider of digital solutions for life sciences and medical innovation through IoT transformation. In her previous role as Strategic Director of Haier Hematologi, she played a pivotal role in the strategic planning and merger integration of various new industries, including blood component separation and application, biological reagents, and scientific analytical instruments for Haier Biomedical. She holds a master's degree in Bioengineering from Ocean University of China and also has hands-on experience in research and development for in vitro diagnostics (IVD). She is joining Professor Albert Ko's team to work on wastewater surveillance for infectious diseases at Fiocruz Bahia and Yale in 2025.
+    </p>
+  </div>
+</div>
+
+<div class="team-member">
   <img src="{{ "/assets/lin-tzuyi.jpeg" | relative_url }}" alt="Tzu Yi Li">
   <div>
     <p style="font-size: 24px; margin: 0;"><strong>Tzu-Yi Lin</strong></p>
