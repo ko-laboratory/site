@@ -66,7 +66,7 @@ permalink: /team/
     <p style="font-size: 24px; margin: 0;"><strong>Catherine Muenker</strong></p>
     <p style="font-size: 18px; margin: 0;">Lab Manager</p>
     <p style="font-size: 14px; margin-top: 5px;">
-      Catherine Muenker is a seasoned molecular biologist with over 25 years of experience in both academic and industry settings. She specializes in molecular biology techniques, including PCR, serology assays, cell culture, and bioimaging, with a particular focus on infectious diseases as the lab manager in the Ko Laboratory for the past 8 years. Catherine has contributed to numerous high-impact research projects, managed biorepositories, and conducted animal studies. Her expertise in research and development, combined with her dedication to mentoring and training, has made her a respected figure in the EMD Department.
+      Cate Muenker is a seasoned molecular biologist with over 25 years of experience spanning both academic and industry settings. As the lab manager in the Ko Laboratory for the past eight years, she has played a pivotal role in emerging infectious disease research, specializing in molecular biology techniques such as qPCR, serology assays, cell culture, and microbiology. Cate has contributed to numerous high-impact research projects, managed bio-repositories, and led animal studies. Her leadership extends beyond the lab, as she is deeply committed to mentoring and training the next generation of scientists. Within the EMD Department, her guidance and technical acumen have earned her the respect of colleagues and trainees. Beyond the lab, she enjoys cheering on her children at their sports events, growing a small business, and immersing herself in reading.
     </p>
   </div>
 </div>
