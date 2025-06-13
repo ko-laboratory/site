@@ -270,7 +270,7 @@ permalink: /team/
     <p style="font-size: 24px; margin: 0;"><strong>Qinyi Wang</strong></p>
     <p style="font-size: 18px; margin: 0;">Undergraduate student</p>
     <p style="font-size: 14px; margin-top: 5px;">
-      Qinyi Wang is an undergraduate student at Yale University studying biology and global health. She is passionate about the intersection of global health and human rights, particularly health interventions in complex emergencies and pandemic preparedness in resource-constrained settings. She leads the Universities Allied for Essential Medicines and Friends of MSF chapters at Yale, and works as a part-time photographer for her residential college, Trumbull. Outside of school, Qinyi is enthusiastic about rock music, traveling, and the football club Arsenal. 
+      Qinyi Wang is an undergraduate student at Yale University studying biology and global health. Her interests lie at the intersection of global health and human rights, with a focus on health interventions in complex emergencies and pandemic preparedness in resource-limited settings. She currently researches factors associated with SARS-CoV-2 vaccine uptake to inform more effective outbreak prevention and control. At Yale, she leads the Universities Allied for Essential Medicines and Friends of MSF chapters, and works as a photographer for Trumbull College. Outside of school, she is enthusiastic about rock music, traveling, and the football club Arsenal.
     </p>
   </div>
 </div>
