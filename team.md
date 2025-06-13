@@ -287,6 +287,17 @@ permalink: /team/
 </div>
 
 <div class="team-member">
+  <img src="{{ "/assets/tao-rui.jpg" | relative_url }}" alt="Rui Tao">
+  <div>
+    <p style="font-size: 24px; margin: 0;"><strong>Rui Tao</strong></p>
+    <p style="font-size: 18px; margin: 0;">MPH student</p>
+    <p style="font-size: 14px; margin-top: 5px;">
+      Rui Tao is a Master of Public Health student in the Epidemiology of Microbial Diseases program at Yale University. Her work in the Ko Lab focuses on the evolution of SARS-CoV-2, particularly the role of immune suppression in shaping viral variants. Rui earned her bachelor's degrees in Neuroscience and Genetics & Genomics from the University of Wisconsin–Madison, graduating with highest distinction. Her academic background spans virology, bioethics, and neurobiology. Outside the lab, Rui enjoys playing basketball and is actively involved in campus sports activities.
+    </p>
+  </div>
+</div>
+
+<div class="team-member">
   <img src="{{ "/assets/borrego-juan.jpeg" | relative_url }}" alt="Juan Borrego">
   <div>
     <p style="font-size: 24px; margin: 0;"><strong>Juan Borrego</strong></p>
@@ -304,17 +315,6 @@ permalink: /team/
     <p style="font-size: 18px; margin: 0;">Undergraduate student</p>
     <p style="font-size: 14px; margin-top: 5px;">
       Qinyi Wang is an undergraduate student at Yale University studying biology and global health. She is passionate about the intersection of global health and human rights, particularly health interventions in complex emergencies and pandemic preparedness in resource-constrained settings. She leads the Universities Allied for Essential Medicines and Friends of MSF chapters at Yale, and works as a part-time photographer for her residential college, Trumbull. Outside of school, Qinyi is enthusiastic about rock music, traveling, and the football club Arsenal. 
-    </p>
-  </div>
-</div>
-
-<div class="team-member">
-  <img src="{{ "/assets/delima-mark.jpeg" | relative_url }}" alt="Mark DeLima">
-  <div>
-    <p style="font-size: 24px; margin: 0;"><strong>Mark DeLima</strong></p>
-    <p style="font-size: 18px; margin: 0;">Undergraduate student</p>
-    <p style="font-size: 14px; margin-top: 5px;">
-      Mark DeLima is a pre-med senior at Southern Connecticut State University, pursuing a degree in chemistry with a concentration in biochemistry. His current work involves conducting Meso Scale Discovery (MSD) assays on samples collected at Yale New Haven Hospital. This research contributes to an ongoing study on the correlates of protection for COVID-19, leading to a deeper understanding of the virus. In addition to his research, Mark assists the lab manager with various projects, such as databasing and updating the biorepository. He is passionate about applying his skills and knowledge to the medical field, with aspirations to make significant contributions to healthcare in the future.
     </p>
   </div>
 </div>
